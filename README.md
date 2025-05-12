@@ -18,6 +18,7 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Playwright](https://img.shields.io/badge/-Playwright-00599C?logo=playwright&logoColor=white&style=flat-square)
+![Selenium](https://img.shields.io/badge/-Selenium-055955?logo=selenium&logoColor=green&style=flat-square)
 ![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=flat)
 ![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -29,11 +30,13 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 
 Here are some of the projects I've been working on:
 
-- [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various testing exercises and examples.
-- [**testavimas**](https://github.com/Vaidul1S/testavimas): Repository focused on testing practices and methodologies.
-- [**CRUD_API**](https://github.com/Vaidul1S/CRUD_API): Implementation and testing of CRUD operations using RESTful APIs.
-- [**Cypress_ToDoList_paprasti_testai**](https://github.com/Vaidul1S/Cypress_ToDoList_paprasti_testai): Simple To-Do list application with Cypress tests.
-- [**Automation-Exercise-Cypress-Tests-1d**](https://github.com/Vaidul1S/Automation-Exercise-Cypress-Tests-1d): Automated tests for the Automation Exercise website using Cypress.
+- [**Cypress**](https://github.com/Vaidul1S/Automation-Exercise-Cypress-Tests-1d): Automated tests for the [Automation Exercise](https://automationexercise.com/) website using Cypress.
+- [**Postman**](https://github.com/Vaidul1S/postman_test): API Testing with Postman.
+- [**Playwright**](https://github.com/Vaidul1S/Playwright-3d):  E2E automated testing for [Sweet Shop](https://sweetshop.netlify.app/) using Playwright.
+- [**Selenium Webdriver**](https://github.com/Vaidul1S/Selenium): Tests for website using Selenium Webdriver.
+- [**CRUD**]([https://github.com/Vaidul1S/CRUD_API](https://github.com/Vaidul1S/Tasks/tree/main/fundraser)): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
+- [**Ganykla**]([https://github.com/Vaidul1S/Cypress_ToDoList_paprasti_testai](https://github.com/Vaidul1S/Ganykla)): Cute and simple doodle with Cows and Sheeps on React.
+- [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various coding exercises and examples(HML5, CSS3).
 
 Feel free to explore these repositories to see my work in action!
 
