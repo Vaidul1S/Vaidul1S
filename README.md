@@ -34,8 +34,8 @@ Here are some of the projects I've been working on:
 - [**Postman**](https://github.com/Vaidul1S/postman_test): API Testing with Postman.
 - [**Playwright**](https://github.com/Vaidul1S/Playwright-3d):  E2E automated testing for [Sweet Shop](https://sweetshop.netlify.app/) using Playwright.
 - [**Selenium Webdriver**](https://github.com/Vaidul1S/Selenium): Tests for website using Selenium Webdriver.
-- [**CRUD**]([https://github.com/Vaidul1S/CRUD_API](https://github.com/Vaidul1S/Tasks/tree/main/fundraser)): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
-- [**Ganykla**]([https://github.com/Vaidul1S/Cypress_ToDoList_paprasti_testai](https://github.com/Vaidul1S/Ganykla)): Cute and simple doodle with Cows and Sheeps on React.
+- [**CRUD**](https://github.com/Vaidul1S/Tasks/tree/main/fundraser): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
+- [**Ganykla**](https://github.com/Vaidul1S/Ganykla): Cute and simple doodle with Cows and Sheeps on React.
 - [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various coding exercises and examples(HML5, CSS3).
 
 Feel free to explore these repositories to see my work in action!
