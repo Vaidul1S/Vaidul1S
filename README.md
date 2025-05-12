@@ -8,7 +8,7 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 
 - 🔍 **QA Tester** with a keen eye for detail and a commitment.
 - 📚 Continuously expanding my skill set to include new tools and frameworks in the QA domain.
-- 👀 I’m currently looking for a junior QA tester position
+- 👀 I’m currently looking for a junior QA tester position.
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -18,7 +18,7 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Playwright](https://img.shields.io/badge/-Playwright-00599C?logo=playwright&logoColor=white&style=flat-square)
-![JMeter](https://img.shields.io/badge/-JMeter-FF6600?logo=apachejmeter&logoColor=white&style=flat-square)
+![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=for-the-badge)
 ![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -43,17 +43,6 @@ Feel free to explore these repositories to see my work in action!
 
 I'm always open to collaboration and discussions about QA and automation. You can reach me through the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/vaidas-adomavicius/)
+- [Email](vaidas.adomaviciuss@gmail.com)
 
-Let's build better software together!
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
