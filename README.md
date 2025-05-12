@@ -18,7 +18,7 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Playwright](https://img.shields.io/badge/-Playwright-00599C?logo=playwright&logoColor=white&style=flat-square)
-![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=flat)
 ![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
