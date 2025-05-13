@@ -49,3 +49,10 @@ I'm always open to collaboration and discussions about QA and automation. You ca
 - [LinkedIn](https://www.linkedin.com/in/vaidas-adomavicius/)
 - [Email](vaidas.adomaviciuss@gmail.com)
 
+---
+
+## 📫 Hobbies
+
+- Volleyball (both) 🏐
+- Basketball 🏀
+- Fantasy Books 📖
