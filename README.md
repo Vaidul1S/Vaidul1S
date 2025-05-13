@@ -31,7 +31,7 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 Here are some of the projects I've been working on:
 
 - [**Cypress**](https://github.com/Vaidul1S/Automation-Exercise-Cypress-Tests-1d): Automated tests for the [Automation Exercise](https://automationexercise.com/) website using Cypress.
-- [**Postman**](https://github.com/Vaidul1S/postman_test): API Testing with Postman.
+- [**Postman**](https://github.com/Vaidul1S/postman_test): Various API Testing with Postman.
 - [**Playwright**](https://github.com/Vaidul1S/Playwright-3d):  E2E automated testing for [Sweet Shop](https://sweetshop.netlify.app/) using Playwright.
 - [**Selenium Webdriver**](https://github.com/Vaidul1S/Selenium): Tests for website using Selenium Webdriver.
 - [**CRUD**](https://github.com/Vaidul1S/Tasks/tree/main/fundraser): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
