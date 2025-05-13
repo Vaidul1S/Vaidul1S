@@ -20,6 +20,7 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 ![Playwright](https://img.shields.io/badge/-Playwright-00599C?logo=playwright&logoColor=white&style=flat-square)
 ![Selenium](https://img.shields.io/badge/-Selenium-055955?logo=selenium&logoColor=green&style=flat-square)
 ![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=flat)
+![MySql](https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=blue&style=flat-square)
 ![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
