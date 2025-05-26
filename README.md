@@ -41,6 +41,7 @@ Here are some of the projects I've been working on:
 
 Feel free to explore these repositories to see my work in action!
 
+Curently I'm studing php.
 ---
 
 ## 📫 Let's Connect
