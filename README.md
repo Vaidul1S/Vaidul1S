@@ -39,9 +39,7 @@ Here are some of the projects I've been working on:
 - [**Ganykla**](https://github.com/Vaidul1S/Ganykla): Cute and simple doodle with Cows and Sheeps on React.
 - [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various coding exercises and examples(HML5, CSS3).
 
-Feel free to explore these repositories to see my work in action!
-
-Curently I'm studing php.
+Feel free to explore these repositories to see my work in action! Curently I'm studing php.
 ---
 
 ## 📫 Let's Connect
