@@ -22,8 +22,10 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 ![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white&style=flat)
 ![MySql](https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=blue&style=flat-square)
 ![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/php-4169e1?style=for-the-badge&logo=php&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
 
 ---
 
@@ -41,7 +43,6 @@ Here are some of the projects I've been working on:
 
 Feel free to explore these repositories to see my work in action! 
 
-Curently I'm studing php.
 ---
 
 ## 📫 Let's Connect
