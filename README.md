@@ -27,7 +27,8 @@ I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passi
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![React](https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 ---
 
@@ -42,6 +43,8 @@ Here are some of the projects I've been working on:
 - [**CRUD**](https://github.com/Vaidul1S/Tasks/tree/main/fundraser): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
 - [**Ganykla**](https://github.com/Vaidul1S/Ganykla): Cute and simple doodle with Cows and Sheeps on React.
 - [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various coding exercises and examples(HML5, CSS3).
+- [**Team Generator**](https://github.com/Vaidul1S/Workshop](https://github.com/Vaidul1S/code/tree/main/reactNative/firstApp)): A team generator app for android (React Native). [**Download App (APK)**](https://expo.dev/accounts/vaidul1s/projects/firstApp/builds/3e1e488a-eaf4-426e-b47e-44e7ec188003)
+  
 
 Feel free to explore these repositories to see my work in action! 
 
