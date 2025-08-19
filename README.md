@@ -40,7 +40,7 @@ Here are some of the projects I've been working on:
 - [**Postman**](https://github.com/Vaidul1S/postman_test): Various API Testing with Postman.
 - [**Playwright**](https://github.com/Vaidul1S/Playwright-3d):  E2E automated testing for [Sweet Shop](https://sweetshop.netlify.app/) using Playwright.
 - [**Selenium Webdriver**](https://github.com/Vaidul1S/Selenium): Tests for website using Selenium Webdriver.
-- [**CRUD**](https://github.com/Vaidul1S/Tasks/tree/main/fundraser): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
+- [**CRUD - Funraising site**](https://github.com/Vaidul1S/Tasks/tree/main/fundraiser): Implementation and coding of CRUD operations using React, Javascript and SQL. Server seeder included.
 - [**Ganykla**](https://github.com/Vaidul1S/Ganykla): Cute and simple doodle with Cows and Sheeps on React.
 - [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various coding exercises and examples(HML5, CSS3).
 - [**Team Generator**](https://github.com/Vaidul1S/Workshop](https://github.com/Vaidul1S/code/tree/main/reactNative/firstApp)): A team generator app for android (React Native). [**Download App (APK)**](https://expo.dev/accounts/vaidul1s/projects/firstApp/builds/c64ec9be-f6a2-4511-ac01-876701d4addd)
