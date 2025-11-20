@@ -45,7 +45,7 @@ Here are some of the projects I've been working on:
 - [**Ganykla**](https://github.com/Vaidul1S/Ganykla): Cute and simple doodle with Cows and Sheeps on React.
 - [**Workshop**](https://github.com/Vaidul1S/Workshop): A collection of various coding exercises and examples(HML5, CSS3).
 - [**Slots Game**](https://github.com/Vaidul1S/python/blob/main/GUI/gui_slots.py): A simple slot machine game using Python graphical user interface.
-- [**Team Generator**](https://github.com/Vaidul1S/Workshop](https://github.com/Vaidul1S/code/tree/main/reactNative/firstApp)): A team generator app for android (React Native). [**Download App (APK)**](https://expo.dev/accounts/vaidul1s/projects/firstApp/builds/c64ec9be-f6a2-4511-ac01-876701d4addd)
+- [**Team Generator**](https://github.com/Vaidul1S/code/tree/main/reactNative): A team generator app for android (React Native). [**Download App (APK)**](https://expo.dev/accounts/vaidul1s/projects/firstApp/builds/c64ec9be-f6a2-4511-ac01-876701d4addd)
   
 
 Feel free to explore these repositories to see my work in action! 
