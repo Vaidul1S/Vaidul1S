@@ -1,4 +1,4 @@
-# 👋 Hi there, My name is Vaidas Adomavičius, ***Vaidul1S*** on Git!
+# 👋 Hello there, My name is Vaidas Adomavičius, ***Vaidul1S*** on Git!
 
 I'm a dedicated QA tester and automation enthusiast based in Lithuania. My passion lies in ensuring software quality through meticulous testing and continuous learning.
 
